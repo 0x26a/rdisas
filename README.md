@@ -6,9 +6,7 @@ The library was only built for learning purpose, and was shared for anyone who m
 
 Therefore, the author of the project doesn't advice anyone to include the following Rust crate in a professional project as it may be unstable.
 
-*Rdisas will probably be published on crates.io once the author will have determined that it has become stable enough.*
-
-*The library is currently in an active state of development.*
+*The library isn't maintained anymore, sadly the SSE box will stay greyed out forever.*
 
 ## Features
 - [x] x86 Instruction Set
