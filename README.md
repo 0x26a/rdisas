@@ -6,7 +6,7 @@ The library was only built for learning purpose, and was shared for anyone who m
 
 Therefore, the author of the project doesn't advice anyone to include the following Rust crate in a professional project as it may be unstable.
 
-*The library isn't maintained anymore, sadly the SSE box will stay greyed out forever.*
+*The library isn't maintained anymore, sadly, the SSE box will stay greyed out forever.*
 
 ## Features
 - [x] x86 Instruction Set
