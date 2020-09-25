@@ -1,4 +1,8 @@
-// Version of SSE supported: 1, 2, 3, 4.1, 4.2
+/*
+---------------------------------------------------------------------------------------------------------------
+SSE SHOULD BE CONSIDERED AS NOT SUPPORTED. THE TABLES AREN'T DONE AND THE ALGORITHM LINKED TO IT ISN'T FINISHED
+---------------------------------------------------------------------------------------------------------------
+*/
 
 use crate::utils::bin::{Encode, Decode};
 use crate::tables::{*, Size::*, simd::sse::*, simd::mmx::*};
