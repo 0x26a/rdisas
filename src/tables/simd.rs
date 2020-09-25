@@ -73,6 +73,12 @@ pub mod mmx{
 	];
 }
 
+/*
+---------------------------------------------------------------------------------------------------------------
+SSE SHOULD BE CONSIDERED AS NOT SUPPORTED. THE TABLES AREN'T DONE AND THE ALGORITHM LINKED TO IT ISN'T FINISHED
+---------------------------------------------------------------------------------------------------------------
+*/
+
 pub mod sse{
 	use crate::tables::{*, Size::*};
 	use crate::intel::enums::{*, AddressingMode::*};
